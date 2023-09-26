@@ -2,6 +2,7 @@
 
 # Waffer
 An easy to use CLI tool that adds license(s) to your projects!
+Inpired by [captainsafia/legit](https://github.com/captainsafia/legit) :)
 | Options    | Output                                    |
 | ---------- | ----------------------------------------- |
 | -h         | Displays the help menu                    |
