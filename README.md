@@ -13,6 +13,19 @@ Inpired by [captainsafia/legit](https://github.com/captainsafia/legit) :)
 
 ![waffer showcase](./img/showcase.png)
 
+# Supported licenses
+- Apache 2.0 : APACHE-2
+- GNU Affero GPL : AGPL-3
+- GPL 2.0 : GPL-2
+- GPL 3.0 : GPL-3
+- Lesser GPL 2.0 : LGPL-2
+- Lesser GPL 2.1 : LGPL-2.1
+- Lesser GPL 3.0 : LGPL-3
+- Mozzila Public License : MPL-2
+- MIT : MIT
+- BSD 2 Clause : BSD-2
+- BSD 3 Clause : BSD-3
+
 # How to install
 ## Debian
 You can find the latest [debian binary over here](https://github.com/unifiedorg/waffer/releases/latest), and install it by running
